@@ -1,0 +1,6 @@
+name: DontCraftItem
+author: alvin0319
+main: DontCraftItem\DontCraftItem
+version: 1.0.0
+api: 4.0.0
+description: A PocketMine-MP Plugin | DontCraftItem, made by alvin0319!
